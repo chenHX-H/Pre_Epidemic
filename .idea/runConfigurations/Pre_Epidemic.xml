@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Pre_Epidemic" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pre_Epidemic" TARGET_NAME="Pre_Epidemic" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pre_Epidemic" RUN_TARGET_NAME="Pre_Epidemic">
+    <envs>
+      <env name="Path" value="F:\C++\QT\5.12.2\mingw73_64\bin;F:\software-python\python3.10.0\Scripts\;F:\software-python\python3.10.0\;F:\software-python\Scripts\;F:\software-python\;C:\Progra~1\Java\&lt;graalvm&gt;\bin;F:\JAVA\Graalvm\graalvm-ee-java8-21.3.0\bin;F:\JAVA\Graalvm\graalvm-ee-java8-21.3.0\jre\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;ATALINA_HOME%\bin;C:\WINDOWS\system3;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\dotnet\;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Server 8.0\binbin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;F:\JAVA\Tomcat\apache-tomcat-9.0.52\bin;F:\JAVA\jdks\jdk8-oracle\bin;C:\Users\chenhonxinh\AppData\Local\Microsoft\WindowsApps;D:\工具\解压压缩\;C:\Users\chenhonxinh\AppData\Local\GitHubDesktop\bin;F:\VSCode1.53.2\mingw64\bin;F:\JAVA\InterlliJ\IntelliJ IDEA 2021.1\bin;;C:\Users\chenhonxinh\Desktop\exe;C:\Users\chenhonxinh\.dotnet\tools;F:\software-python\python3.9\swigwin-4.0.2\swigwin-4.0.2;;F:\C++\CLion 2021.3\bin;" />
+    </envs>
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
